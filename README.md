@@ -1,2 +1,6 @@
-# curry_company
-This repository contains files and scripts python to build a company strategy dashboard.
+# Restaurantes e Entregadores
+Este repositório contém arquivos e scripts python para construir um painel de estratégia da empresa.
+
+
+
+
